@@ -1,4 +1,4 @@
-# PROGRAM FOR BUGECT MANAGEMENT
+# PROGRAM FOR BUDGET MANAGEMENT
 
 
 class Budget:  #class creation
