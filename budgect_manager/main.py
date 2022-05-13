@@ -93,7 +93,7 @@ while y==1: # looping so that it runs multiple times
     print(' ')
     
     print("-"*20)
-# calculatingt if the user was over the budget or on budget
+# calculating if the user was over the budget or on budget
 
     if total_money_spend > money :
         print("Spendings over the budget ")
